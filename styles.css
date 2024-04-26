@@ -1,0 +1,24 @@
+img {
+    height: 30%;
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+.parrot {
+    opacity: 0.5;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    width: 30%;
+    margin: calc(10%6);
+    padding: 1.2em 0;
+
+}
